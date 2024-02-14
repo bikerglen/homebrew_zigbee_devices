@@ -1,0 +1,13 @@
+C1       Capacitor 0603 0.1uF
+C2       Capacitor 1210 100uF
+CR2450   TE/Linx BAT-HLD-008-SMT
+D1       LED 0805
+D7       LED 0805
+J1       Samtec FTS-105-01-F-DV-P-TRJ
+J2       Phoenix 1725685
+R1       Resistor 0603 10k
+R2       Resistor 0603 1k
+R3       Resistor 0603 1k
+SW1      Button KMR211NGLFS
+SW2      Button KMR211NGLFS
+U1       Wireless Module
