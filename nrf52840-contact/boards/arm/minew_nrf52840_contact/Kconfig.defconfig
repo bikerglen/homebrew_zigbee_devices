@@ -1,0 +1,12 @@
+# Copyright (c) 2024 Nordic Semiconductor ASA
+# SPDX-License-Identifier: Apache-2.0
+
+if BOARD_MINEW_NRF52840_CONTACT
+
+config BOARD
+	default "minew_nrf52840_contact"
+
+config BT_CTLR
+   default BT
+
+endif
