@@ -1,6 +1,7 @@
 # homebrew_zigbee_devices
 
 First up: nRF52840-based four-input sleepy end device
+
 Second up: nRF52840-based hall effect contact sensor sleepy end device
 
 1. Install nRF plugins for Visual Studio Code
